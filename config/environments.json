@@ -1,0 +1,28 @@
+{
+  "environments": [
+    {
+      "name": "dev",
+      "displayName": "Development",
+      "description": "Latest & Greatest, breaks often",
+      "config": {
+        "registrationUrl": "https://web-client.dev.cloud.dstage.org/account/signup",
+        "apiUrl": "wss://api.dev.cloud.dstage.org",
+        "authUrl": "https://auth.dev.cloud.dstage.org",
+        "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
+        "logUrl": "https://log-server.cloud.dstage.org"
+      }
+    },
+    {
+      "name": "beta",
+      "displayName": "Test",
+      "description": "Beta Release candidates are deployed here (testable for friendly users)",
+      "config": {
+        "registrationUrl": "https://test.digital-stage.org/account/signup",
+        "apiUrl": "wss://digitalstage-api.germanywestcentral.cloudapp.azure.com",
+        "authUrl": "https://digitalstage-auth.germanywestcentral.cloudapp.azure.com",
+        "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
+        "logUrl": "https://log.dstage.org"
+      }
+    }
+  ]
+}
