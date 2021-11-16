@@ -1,0 +1,6 @@
+{
+  "apiUrl": "wss://api.dev.cloud.dstage.org",
+  "authUrl": "https://auth.dev.cloud.dstage.org",
+  "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
+  "logUrl": "https://log-server.cloud.dstage.org"
+}
