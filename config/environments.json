@@ -6,6 +6,7 @@
       "description": "Latest & Greatest, breaks often",
       "config": {
         "registrationUrl": "https://web-client.dev.cloud.dstage.org/account/signup",
+        "forgotPasswordUrl": "https://web-client.dev.cloud.dstage.org/account/forgot", 
         "apiUrl": "wss://api.dev.cloud.dstage.org",
         "authUrl": "https://auth.dev.cloud.dstage.org",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
@@ -18,6 +19,7 @@
       "description": "Beta Release candidates are deployed here (testable for friendly users)",
       "config": {
         "registrationUrl": "https://test.digital-stage.org/account/signup",
+        "forgotPasswordUrl": "https://test.digital-stage.org/account/forgot", 
         "apiUrl": "wss://digitalstage-api.germanywestcentral.cloudapp.azure.com",
         "authUrl": "https://digitalstage-auth.germanywestcentral.cloudapp.azure.com",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
