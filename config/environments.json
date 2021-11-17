@@ -9,7 +9,7 @@
         "apiUrl": "wss://api.dev.cloud.dstage.org",
         "authUrl": "https://auth.dev.cloud.dstage.org",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
-        "logUrl": "https://log-server.cloud.dstage.org"
+        "logUrl": "https://log.dev.cloud.dstage.org"
       }
     },
     {
@@ -21,7 +21,7 @@
         "apiUrl": "wss://digitalstage-api.germanywestcentral.cloudapp.azure.com",
         "authUrl": "https://digitalstage-auth.germanywestcentral.cloudapp.azure.com",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
-        "logUrl": "https://log.dstage.org"
+        "logUrl": "https://log.test.cloud.dstage.org"
       }
     }
   ]
