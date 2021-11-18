@@ -2,7 +2,7 @@
   "environments": [
     {
       "name": "dev",
-      "displayName": "Development",
+      "displayName": "Entwicklung",
       "description": "Latest & Greatest, breaks often",
       "config": {
         "registrationUrl": "https://web-client.dev.cloud.dstage.org/account/signup",
