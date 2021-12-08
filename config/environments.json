@@ -1,6 +1,19 @@
 {
   "environments": [
     {
+      "name": "experimental",
+      "displayName": "Experimentell",
+      "description": "Future, breaks guaranteed",
+      "config": {
+        "registrationUrl": "https://dev.dstage.org/account/signup",
+        "forgotPasswordUrl": "https://dev.dstage.org/account/forgot",
+        "apiUrl": "wss://api.dstage.org",
+        "authUrl": "https://auth.dstage.org",
+        "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
+        "logUrl": "https://log.dstage.org"
+      }
+    },
+    {
       "name": "dev",
       "displayName": "Entwicklung",
       "description": "Latest & Greatest, breaks often",
