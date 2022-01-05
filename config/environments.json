@@ -5,11 +5,12 @@
       "displayName": "Experimentell",
       "description": "Future, breaks guaranteed",
       "config": {
+        "stageUrl": "https://dev.dstage.org/stage",
         "registrationUrl": "https://dev.dstage.org/account/signup",
         "forgotPasswordUrl": "https://dev.dstage.org/account/forgot",
         "apiUrl": "wss://api.dstage.org",
         "authUrl": "https://auth.dstage.org",
-        "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
+        "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",        
         "logUrl": "https://log.dstage.org"
       }
     },
@@ -18,6 +19,7 @@
       "displayName": "Entwicklung",
       "description": "Latest & Greatest, breaks often",
       "config": {
+        "stageUrl": "https://web.dev.cloud.dstage.org/stage",
         "registrationUrl": "https://web.dev.cloud.dstage.org/account/signup",
         "forgotPasswordUrl": "https://web.dev.cloud.dstage.org/account/forgot",
         "apiUrl": "wss://api.dev.cloud.dstage.org",
@@ -31,6 +33,7 @@
       "displayName": "Beta",
       "description": "Beta Release candidates are deployed here (testable for friendly users)",
       "config": {
+        "stageUrl": "https://beta.digital-stage.org/stage",
         "registrationUrl": "https://beta.digital-stage.org/account/signup",
         "forgotPasswordUrl": "https://beta.digital-stage.org/account/forgot",
         "apiUrl": "wss://api.test.cloud.dstage.org",
