@@ -27,19 +27,6 @@
       }
     },
     {
-      "name": "test",
-      "displayName": "Test",
-      "description": "Alte Test-Umgebung",
-      "config": {
-        "registrationUrl": "https://test.digital-stage.org/account/signup",
-        "forgotPasswordUrl": "https://test.digital-stage.org/account/forgot",
-        "apiUrl": "wss://digitalstage-api.germanywestcentral.cloudapp.azure.com",
-        "authUrl": "https://digitalstage-auth.germanywestcentral.cloudapp.azure.com",
-        "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
-        "logUrl": "https://log.test.cloud.dstage.org"
-      }
-    },
-    {
       "name": "beta",
       "displayName": "Beta",
       "description": "Beta Release candidates are deployed here (testable for friendly users)",
