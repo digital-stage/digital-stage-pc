@@ -19,13 +19,13 @@
       "displayName": "Entwicklung",
       "description": "Latest & Greatest, breaks often",
       "config": {
-        "stageUrl": "https://web.dev.cloud.dstage.org/stage",
-        "registrationUrl": "https://web.dev.cloud.dstage.org/account/signup",
-        "forgotPasswordUrl": "https://web.dev.cloud.dstage.org/account/forgot",
-        "apiUrl": "wss://api.dev.cloud.dstage.org",
-        "authUrl": "https://auth.dev.cloud.dstage.org",
+        "stageUrl": "https://web.dev.digital-stage.net/stage",
+        "registrationUrl": "https://web.dev.digital-stage.net/account/signup",
+        "forgotPasswordUrl": "https://web.dev.digital-stage.net/account/forgot",
+        "apiUrl": "wss://api.dev.digital-stage.net",
+        "authUrl": "https://auth.dev.digital-stage.net",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
-        "logUrl": "https://log.dev.cloud.dstage.org"
+        "logUrl": "https://log.dev.digital-stage.net"
       }
     },
     {
