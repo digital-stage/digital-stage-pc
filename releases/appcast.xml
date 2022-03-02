@@ -5,14 +5,14 @@
         <description>Update information for digitalStagePC for Windows</description>
         <language>en</language>
         <item>
-            <title>Version 2.8.10</title>
+            <title>Version 2.8.14</title>
             <sparkle:releaseNotesLink>
-                https://digital-stage.github.io/digital-stage-pc/releases/2.8.10.html
+                https://digital-stage.github.io/digital-stage-pc/releases/2.8.14.html
             </sparkle:releaseNotesLink>
-            <pubDate>20220301 14:00:00+2</pubDate>
-            <enclosure url="https://github.com/digital-stage/digital-stage-pc/releases/download/2.8.10/digitalStagePC_setup_2.8.10.exe"
-                       sparkle:version="2.8.10"
-                       sparkle:dsaSignature=""
+            <pubDate>20220302 17:00:00+2</pubDate>
+            <enclosure url="https://github.com/digital-stage/digital-stage-pc/releases/download/2.8.14/digitalStagePC_setup_2.8.14.exe"
+                       sparkle:version="2.8.14"
+                       sparkle:dsaSignature="MEQCIAjWtkFaZUfWJ5UT5E96WCMbrNWtX8PhNQEJCi1jku3RAiAlNv0qgSUqY+ZwvBOwhRrRxMhGk2p6pIoSKAFYPO4+rw=="
                        sparkle:installerArguments="/SILENT /SP- /NOICONS"
                        length="0"
                        type="application/octet-stream" />
