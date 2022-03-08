@@ -12,7 +12,8 @@
             <pubDate>20220308 17:22:00+2</pubDate>
             <enclosure url="https://github.com/digital-stage/digital-stage-pc/releases/download/2.9.1/digitalStagePC_setup_2.9.1.exe"
                        sparkle:version="2.9.1"
-                       sparkle:dsaSignature="MEUCIAD8mbJBmBH8JAwSLnPxHKW+G7xrkrpKuIihKr4xNBasAiEAuyYKhh5QFm1Ung1MEWf1JigsFHCJE37Sw/V55jAzzgI="
+                       sparkle:dsaSignature="MEQCIFQ4UAIW3rQePH3brEfh7l980FTznrafdXVunerCISAhAiBIl7A5T/iogXr2
+E4Yse6OzIG3ughrEivjhwXR3ptCDKQ=="
                        sparkle:installerArguments="/SILENT /SP- /NOICONS"
                        length="0"
                        type="application/octet-stream" />
