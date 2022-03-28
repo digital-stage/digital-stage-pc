@@ -25,7 +25,9 @@
         "apiUrl": "wss://api.dev.digital-stage.net",
         "authUrl": "https://auth.dev.digital-stage.net",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
-        "logUrl": "https://log.dev.digital-stage.net"
+        "logUrl": "https://log.dev.digital-stage.net",
+        "echoUrl": "20.113.39.52",
+        "echoPort": "40899"
       }
     },
     {
