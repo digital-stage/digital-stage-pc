@@ -1,22 +1,6 @@
 {
   "environments": [
     {
-      "name": "experimental",
-      "displayName": "Experimentell",
-      "description": "Future, breaks guaranteed",
-      "config": {
-        "stageUrl": "https://dev.dstage.org/stage",
-        "registrationUrl": "https://dev.dstage.org/account/signup",
-        "forgotPasswordUrl": "https://dev.dstage.org/account/forgot",
-        "apiUrl": "wss://api.dstage.org",
-        "authUrl": "https://auth.dstage.org",
-        "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",        
-        "logUrl": "https://log.dstage.org",
-        "echoUrl": "20.113.39.52",
-        "echoPort": "40899"
-      }
-    },
-    {
       "name": "dev",
       "displayName": "Entwicklung",
       "description": "Latest & Greatest, breaks often",
@@ -29,7 +13,7 @@
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
         "logUrl": "https://log.dev.digital-stage.net",
         "echoUrl": "20.113.39.52",
-        "echoPort": "40899"
+        "echoPort": "40001"
       }
     },
     {
@@ -45,7 +29,7 @@
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
         "logUrl": "https://log.test.digital-stage.net",
         "echoUrl": "20.113.39.52",
-        "echoPort": "40899"
+        "echoPort": "40001"
       }
     }
   ]
