@@ -13,7 +13,7 @@
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
         "logUrl": "https://log.dev.digital-stage.net",
         "echoUrl": "20.113.39.52",
-        "echoPort": "40001"
+        "echoPort": "40800"
       }
     },
     {
@@ -29,7 +29,7 @@
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
         "logUrl": "https://log.test.digital-stage.net",
         "echoUrl": "20.113.39.52",
-        "echoPort": "40001"
+        "echoPort": "40800"
       }
     }
   ]
