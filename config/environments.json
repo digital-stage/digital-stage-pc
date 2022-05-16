@@ -12,8 +12,8 @@
         "authUrl": "https://auth.dev.digital-stage.net",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
         "logUrl": "https://log.dev.digital-stage.net",
-        "echoUrl": "20.113.39.52",
-        "echoPort": "40800"
+        "echoUrl": "20.79.75.36",
+        "echoPort": "40998"
       }
     },
     {
