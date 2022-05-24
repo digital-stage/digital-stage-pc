@@ -12,7 +12,7 @@
         "authUrl": "https://auth.dev.digital-stage.net",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
         "logUrl": "https://log.dev.digital-stage.net",
-        "echoUrl": "eager.dev.digital-stage.net",
+        "echoUrl": "aegar.dev.digital-stage.net",
         "echoPort": "40800"
       }
     },
