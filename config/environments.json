@@ -12,8 +12,8 @@
         "authUrl": "https://auth.dev.digital-stage.net",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
         "logUrl": "https://log.dev.digital-stage.net",
-        "echoUrl": "20.79.75.36",
-        "echoPort": "40998"
+        "echoUrl": "eager.dev.digital-stage.net",
+        "echoPort": "40800"
       }
     },
     {
@@ -28,7 +28,7 @@
         "authUrl": "https://auth.test.digital-stage.net",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
         "logUrl": "https://log.test.digital-stage.net",
-        "echoUrl": "router.test.digital-stage.net",
+        "echoUrl": "zertus.test.digital-stage.net",
         "echoPort": "40800"
       }
     }
