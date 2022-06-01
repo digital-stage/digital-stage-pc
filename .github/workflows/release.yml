@@ -1,7 +1,5 @@
 name: release
 on:
-  # TODO: For now also enable manual runs
-  workflow_dispatch:
   # listen to repository dispatch events from jn-fork
   repository_dispatch:
     types: [update-jn-release]
@@ -13,14 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Patch appcast
-        working-directory: release/_scripts/
+        working-directory: releases/_scripts/
         env:
           JN_VERSION: ${{ github.event.client_payload.version }}
           JN_SIGNATURE: ${{ github.event.client_payload.signature }}
           JN_RELEASE_FEATURES: "TODO"
           JN_RELEASE_BUGFIXES: "TODO"
         run: |
-          echo "Creating sparkle entry for JammerClient '$JN_VERSION'"
+          echo "Creating sparkle entry for JammerClient '${JN_VERSION}'"
           python3 sparkle.py
           ls -la ..
       - name: Commit changes
