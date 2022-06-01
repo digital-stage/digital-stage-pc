@@ -1,0 +1,4 @@
+test*.xml
+*.html
+!template.html
+.idea/
