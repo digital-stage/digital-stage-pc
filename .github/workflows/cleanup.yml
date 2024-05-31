@@ -13,7 +13,7 @@ jobs:
         with:
           #repo: <owner>/<repoName> # defaults to current repo
           keep_latest: 3
-          keep_min_download_counts: 1 # Optional parameters
+          keep_min_download_counts: 0 # Optional parameters
           delete_expired_data: 10 # Optional parameters
           delete_tags: true # Optional parameters
           delete_tag_pattern: beta # defaults to ""
