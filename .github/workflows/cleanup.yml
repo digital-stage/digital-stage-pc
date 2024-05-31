@@ -16,6 +16,6 @@ jobs:
           keep_min_download_counts: 0 # Optional parameters
           delete_expired_data: 10 # Optional parameters
           delete_tags: true # Optional parameters
-          delete_tag_pattern: beta # defaults to ""
+          #delete_tag_pattern: beta # defaults to ""
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
