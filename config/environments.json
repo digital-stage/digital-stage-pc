@@ -5,9 +5,9 @@
       "displayName": "Entwicklung",
       "description": "Latest & Greatest, breaks often",
       "config": {
-        "stageUrl": "https://web.dev.digital-stage.net/stage",
-        "registrationUrl": "https://web.dev.digital-stage.net/account/signup",
-        "forgotPasswordUrl": "https://web.dev.digital-stage.net/account/forgot",
+        "stageUrl": "https://live.dev.digital-stage.net/stage",
+        "registrationUrl": "https://live.dev.digital-stage.net/account/signup",
+        "forgotPasswordUrl": "https://live.dev.digital-stage.net/account/forgot",
         "apiUrl": "wss://api.dev.digital-stage.net",
         "authUrl": "https://auth.dev.digital-stage.net",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
