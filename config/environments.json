@@ -21,9 +21,9 @@
       "displayName": "Beta",
       "description": "Beta Release candidates are deployed here (testable for friendly users)",
       "config": {
-        "stageUrl": "https://beta.digital-stage.net/stage",
-        "registrationUrl": "https://beta.digital-stage.net/account/signup",
-        "forgotPasswordUrl": "https://beta.digital-stage.net/account/forgot",
+        "stageUrl": "https://live.digital-stage.net/stage",
+        "registrationUrl": "https://live.digital-stage.net/account/signup",
+        "forgotPasswordUrl": "https://live.digital-stage.net/account/forgot",
         "apiUrl": "wss://api.test.digital-stage.net",
         "authUrl": "https://auth.test.digital-stage.net",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
