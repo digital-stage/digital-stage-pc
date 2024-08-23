@@ -5,13 +5,13 @@
       "displayName": "Entwicklung",
       "description": "Latest & Greatest, breaks often",
       "config": {
-        "stageUrl": "https://live.dev.digital-stage.net/stage",
-        "registrationUrl": "https://live.dev.digital-stage.net/account/signup",
-        "forgotPasswordUrl": "https://live.dev.digital-stage.net/account/forgot",
-        "apiUrl": "wss://api.dev.digital-stage.net",
-        "authUrl": "https://auth.dev.digital-stage.net",
+        "stageUrl": "https://live.dev.digital-stage.org/stage",
+        "registrationUrl": "https://live.dev.digital-stage.org/account/signup",
+        "forgotPasswordUrl": "https://live.dev.digital-stage.org/account/forgot",
+        "apiUrl": "wss://api.dev.digital-stage.org",
+        "authUrl": "https://auth.dev.digital-stage.org",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
-        "logUrl": "https://log.dev.digital-stage.net",
+        "logUrl": "https://log.dev.digital-stage.org",
         "echoUrl": "aegar.dev.digital-stage.net",
         "echoPort": "40800"
       }
