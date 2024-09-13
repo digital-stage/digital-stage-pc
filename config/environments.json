@@ -28,7 +28,7 @@
         "authUrl": "https://auth.test.digital-stage.org",
         "jnUrl": "https://github.com/digital-stage/digital-stage-pc/releases",
         "logUrl": "https://log.test.digital-stage.org",
-        "echoUrl": "yelana.test.digital-stage.org",
+        "echoUrl": "yelana.test.digital-stage.net",
         "echoPort": "40800"
       }
     }
